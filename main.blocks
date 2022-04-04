@@ -2,6 +2,6 @@
         . . . . . 
         . # . . . 
         . . # . . 
-        . . . . . 
-        . . . . .
-        `</field></block></statement></block></statement></block><block type="device_forever" id="sd5hEA]H7HPM4dPr)RrM" x="205" y="0"/></xml>
+        . . # . . 
+        . # . . .
+        `</field><next><block type="device_show_number" id=",=/d_kgBQ.Qn8Zzn:]+Y"><value name="number"><shadow type="math_number" id="OA9`Fiem97}PgLL7sl8d"><field name="NUM">3</field></shadow></value></block></next></block></statement></block></statement></block><block type="device_forever" id="sd5hEA]H7HPM4dPr)RrM" x="205" y="0"/></xml>
